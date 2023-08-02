@@ -1,0 +1,12 @@
+{
+  "catagories": [{ "id": 0, "name": "Singel Room" }],
+  "rooms": [
+    {
+      "id": 0,
+      "catagoryId": 0,
+      "totalSeat": 10,
+      "availableseat": 5,
+      "images": []
+    }
+  ]
+}
