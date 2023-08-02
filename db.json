@@ -1,5 +1,9 @@
 {
-  "catagories": [{ "id": 0, "name": "Singel Room" }],
+  "catagories": [
+    { "id": 0, "name": "Singel Room" },
+    { "id": 1, "name": "Family Room" },
+    { "id": 2, "name": "Strandard Room" }
+  ],
   "rooms": [
     {
       "id": 0,
