@@ -1,16 +1,33 @@
 {
   "catagories": [
-    { "id": 0, "name": "Singel Room" },
-    { "id": 1, "name": "Family Room" },
-    { "id": 2, "name": "Strandard Room" }
+    { "id": 1, "name": "Singel Room" },
+    { "id": 2, "name": "Family Room" },
+    { "id": 3, "name": "Strandard Room" }
   ],
   "rooms": [
     {
-      "id": 0,
-      "catagoryId": 0,
-      "totalSeat": 10,
-      "availableseat": 5,
-      "images": ["images/doublebed.jpg"]
+      "id": 1,
+      "catagoryId": 1,
+      "totalroom": 10,
+      "availableroom": 5,
+      "description": "Your own personal paradise – the Deluxe Room with a sea view. Take in the stunning beauty of the hills from other vantage point as well. Our rooms are the perfect choice for families and friends looking for a luxurious getaway.",
+      "images": "images/singel.jpg"
+    },
+    {
+      "id": 2,
+      "catagoryId": 2,
+      "totalroom": 7,
+      "availableroom": 5,
+      "description": "Wake up to stunning sea views and breathe in the fresh air of nature with our Suite Room with Balcony and Sea Facing. Let us take care of your need as you enjoy the loveliest stay of your lifetime.",
+      "images": "images/ragular.jpg"
+    },
+    {
+      "id": 3,
+      "catagoryId": 3,
+      "totalroom": 7,
+      "availableroom": 0,
+      "description": "Escape to Paradise your private sanctuary with stunning ocean views. Accompanied by a luxurious living room, our President Suite will give you the dream goal of your travel stories.",
+      "images": "images/doublebed.jpg"
     }
   ]
 }
