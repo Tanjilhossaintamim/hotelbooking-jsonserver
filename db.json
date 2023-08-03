@@ -7,6 +7,7 @@
   "rooms": [
     {
       "id": 1,
+      "name": "Singel Room",
       "catagoryId": 1,
       "totalroom": 10,
       "availableroom": 5,
@@ -16,6 +17,7 @@
     },
     {
       "id": 2,
+      "name": "Family Room",
       "catagoryId": 2,
       "totalroom": 7,
       "availableroom": 5,
@@ -25,6 +27,7 @@
     },
     {
       "id": 3,
+      "name": "Strandard Room",
       "catagoryId": 3,
       "totalroom": 7,
       "availableroom": 0,
